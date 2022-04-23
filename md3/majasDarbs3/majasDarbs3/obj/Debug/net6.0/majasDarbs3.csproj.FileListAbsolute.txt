@@ -1,0 +1,15 @@
+C:\Users\austr\Documents\GitFolder\md3\majasDarbs3\majasDarbs3\bin\Debug\net6.0\majasDarbs3.exe
+C:\Users\austr\Documents\GitFolder\md3\majasDarbs3\majasDarbs3\bin\Debug\net6.0\majasDarbs3.deps.json
+C:\Users\austr\Documents\GitFolder\md3\majasDarbs3\majasDarbs3\bin\Debug\net6.0\majasDarbs3.runtimeconfig.json
+C:\Users\austr\Documents\GitFolder\md3\majasDarbs3\majasDarbs3\bin\Debug\net6.0\majasDarbs3.dll
+C:\Users\austr\Documents\GitFolder\md3\majasDarbs3\majasDarbs3\bin\Debug\net6.0\majasDarbs3.pdb
+C:\Users\austr\Documents\GitFolder\md3\majasDarbs3\majasDarbs3\obj\Debug\net6.0\majasDarbs3.csproj.AssemblyReference.cache
+C:\Users\austr\Documents\GitFolder\md3\majasDarbs3\majasDarbs3\obj\Debug\net6.0\majasDarbs3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\austr\Documents\GitFolder\md3\majasDarbs3\majasDarbs3\obj\Debug\net6.0\majasDarbs3.AssemblyInfoInputs.cache
+C:\Users\austr\Documents\GitFolder\md3\majasDarbs3\majasDarbs3\obj\Debug\net6.0\majasDarbs3.AssemblyInfo.cs
+C:\Users\austr\Documents\GitFolder\md3\majasDarbs3\majasDarbs3\obj\Debug\net6.0\majasDarbs3.csproj.CoreCompileInputs.cache
+C:\Users\austr\Documents\GitFolder\md3\majasDarbs3\majasDarbs3\obj\Debug\net6.0\majasDarbs3.dll
+C:\Users\austr\Documents\GitFolder\md3\majasDarbs3\majasDarbs3\obj\Debug\net6.0\refint\majasDarbs3.dll
+C:\Users\austr\Documents\GitFolder\md3\majasDarbs3\majasDarbs3\obj\Debug\net6.0\majasDarbs3.pdb
+C:\Users\austr\Documents\GitFolder\md3\majasDarbs3\majasDarbs3\obj\Debug\net6.0\majasDarbs3.genruntimeconfig.cache
+C:\Users\austr\Documents\GitFolder\md3\majasDarbs3\majasDarbs3\obj\Debug\net6.0\ref\majasDarbs3.dll
